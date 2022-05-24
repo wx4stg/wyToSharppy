@@ -8,7 +8,7 @@ import pandas as pd
 from datetime import datetime as dt
 
 
-# python3 <input> <ICAO> <%Y%m%d%H%M> <output>
+# python3 wyToSharppy.py <input> <ICAO> <%Y%m%d%H%M> <output>
 
 if __name__ == "__main__":
     inputfilePath = sys.argv[1]
